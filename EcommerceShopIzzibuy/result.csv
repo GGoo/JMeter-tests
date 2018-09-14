@@ -1,0 +1,12 @@
+1536938985531,1512,http://izilogin.3wdt.com/,200,OK,Users 1-1,text,true,,1910688,5769,1,1,355,0,133
+1536939006873,669,http://izilogin.3wdt.com/user/login,200,OK,Users 1-1,text,true,,147655,6319,1,1,275,0,47
+1536939015728,787,http://izilogin.3wdt.com/user/login_check,200,OK,Users 1-1,text,true,,58960,8142,1,1,211,0,51
+1536939017232,391,http://izilogin.3wdt.com/user/onLogin,500,Internal Server Error,Users 1-1,text,false,,714,517,1,1,391,0,0
+1536939025781,905,http://izilogin.3wdt.com/user/logout,200,OK,Users 1-1,text,true,,98821,7826,1,1,205,0,47
+1536938985432,4264,Login,,"Number of samples in transaction : 5, number of failing samples : 1",Users 1-1,,false,,2216838,28573,1,1,1437,36992,278
+1536939051368,2681,http://izilogin.3wdt.com/,200,OK,Users 1-1,text,true,,1910815,5769,1,1,428,0,184
+1536939074134,703,http://izilogin.3wdt.com/user/login,200,OK,Users 1-1,text,true,,147521,6319,1,1,246,0,61
+1536939083025,800,http://izilogin.3wdt.com/user/login_check,200,OK,Users 1-1,text,true,,58948,8142,1,1,210,0,52
+1536939084543,288,http://izilogin.3wdt.com/user/onLogin,500,Internal Server Error,Users 1-1,text,false,,714,517,1,1,288,0,0
+1536939092984,884,http://izilogin.3wdt.com/user/logout,200,OK,Users 1-1,text,true,,98592,7826,1,1,217,0,52
+1536939051241,5356,Login,,"Number of samples in transaction : 5, number of failing samples : 1",Users 1-1,,false,,2216590,28573,1,1,1389,37275,349
