@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1537267930069,1901,http://izilogin.3wdt.com/,200,OK,Users 1-1,text,true,,1910721,5769,1,1,428,0,200
+1537267952360,807,http://izilogin.3wdt.com/user/login,200,OK,Users 1-1,text,true,,147640,6319,1,1,240,0,43
+1537267961359,813,http://izilogin.3wdt.com/user/login_check,200,OK,Users 1-1,text,true,,58792,8142,1,1,219,0,58
+1537267962889,333,http://izilogin.3wdt.com/user/onLogin,500,Internal Server Error,Users 1-1,text,false,,714,517,1,1,333,0,0
+1537267971376,975,http://izilogin.3wdt.com/user/logout,200,OK,Users 1-1,text,true,,98828,7826,1,1,212,0,43
+1537267929950,4829,Login,,"Number of samples in transaction : 5, number of failing samples : 1",Users 1-1,,false,,2216695,28573,1,1,1432,37573,344

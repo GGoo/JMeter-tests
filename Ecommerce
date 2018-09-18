@@ -1,0 +1,326 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1537217061304,39,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,39
+1537217061244,99,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,99
+1537217061304,39,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,3,39
+1537217061114,99,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,133,99
+1537217061114,99,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,133,99
+1537217061304,39,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,3,39
+1537217061347,0,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,0
+1537217061347,0,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,0
+1537217061346,0,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,3,0
+1537217061346,0,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,3,0
+1537217061346,0,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,3,0
+1537217061346,0,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,3,0
+1537217061349,11,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,11
+1537217061349,12,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,12
+1537217061349,11,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,11
+1537217061349,12,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,0,12
+1537217061362,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,2
+1537217061362,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,2
+1537217061361,2,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,3,2
+1537217061362,2,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,2,2
+1537217061361,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,3,2
+1537217061362,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,2,2
+1537217061366,3,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,3
+1537217061366,3,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,3
+1537217061366,3,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,3
+1537217061366,3,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,3
+1537217061370,2,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061371,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,0
+1537217061370,2,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061371,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,0
+1537217061370,2,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061371,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,0
+1537217061373,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061373,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061373,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061373,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,1
+1537217061373,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061373,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,1
+1537217061376,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061376,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061375,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,2,1
+1537217061375,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,2,1
+1537217061378,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061378,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061378,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061378,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,2
+1537217061378,2,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,2
+1537217061378,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,2
+1537217061381,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061380,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,2,1
+1537217061381,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061383,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061381,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,3,1
+1537217061383,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061383,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061385,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061385,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061385,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,2,1
+1537217061385,3,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,3
+1537217061385,3,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,3
+1537217061385,3,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,3
+1537217061388,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061388,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061389,2,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,2
+1537217061389,2,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,0,2
+1537217061389,2,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,2
+1537217061391,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,2
+1537217061390,2,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,2,2
+1537217061390,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,2,2
+1537217061392,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061392,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,1
+1537217061395,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061394,2,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061394,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,1
+1537217061394,2,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,0,1
+1537217061394,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,2,1
+1537217061397,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061397,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061397,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,0,1
+1537217061397,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061397,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,1
+1537217061399,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061399,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061399,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061401,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061401,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061401,3,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,2
+1537217061400,3,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,2
+1537217061400,3,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,2
+1537217061403,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061403,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061403,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061405,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061405,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061405,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061405,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,2,1
+1537217061405,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,2,1
+1537217061408,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061408,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061408,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,1
+1537217061408,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061408,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061410,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061410,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061410,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061410,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,2
+1537217061410,2,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,0,2
+1537217061410,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,2
+1537217061412,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061412,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061413,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061413,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,1
+1537217061414,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061414,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061414,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061416,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-2,text,false,,2128,0,2,2,0,0,1
+1537217061416,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,2,2,0,0,1
+1537217061416,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,2128,0,2,2,0,1,1
+1537217061416,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,1
+1537217061416,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,2,2,0,1,1
+1537217061418,2,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,1,1,0,0,2
+1537217061418,2,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,1,1,0,0,2
+1537217061418,2,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,1,1,0,0,2
+1537217061421,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,1,1,0,0,1
+1537217061420,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,1,1,0,1,1
+1537217061423,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,1,1,0,0,1
+1537217061423,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,1,1,0,1,1
+1537217061423,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,1,1,0,1,1
+1537217061425,3,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-1,text,false,,2128,0,1,1,0,0,3
+1537217061425,3,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2128,0,1,1,0,1,3
+1537217061503,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061503,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061503,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061505,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061505,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061505,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061507,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061507,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061509,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,2
+1537217061509,2,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,2
+1537217061509,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,2
+1537217061512,0,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,0
+1537217061511,0,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,2,0
+1537217061513,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061513,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061513,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061515,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061515,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061515,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061517,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061517,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061519,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061519,2,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,1
+1537217061519,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,1
+1537217061521,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061521,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061523,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061523,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061523,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061525,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,0
+1537217061525,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,0
+1537217061525,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,0
+1537217061526,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061526,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061528,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061528,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,1
+1537217061528,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,1
+1537217061529,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061529,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061531,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061531,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,1
+1537217061531,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,1
+1537217061532,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061532,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061532,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061534,2,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061534,2,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,1
+1537217061536,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,2
+1537217061536,3,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,2
+1537217061536,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,2
+1537217061539,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061539,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061541,2,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,2
+1537217061541,2,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,2
+1537217061541,2,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,2
+1537217061543,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061543,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061543,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061545,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061545,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061547,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,1
+1537217061547,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061547,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,1,1
+1537217061549,3,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-3,text,false,,2128,0,1,1,0,0,3
+1537217061549,3,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,2128,0,1,1,0,0,3
+1537217061704,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061703,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,2,1
+1537217061703,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,2,1
+1537217061706,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061706,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061706,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061708,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061707,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061710,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061709,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061709,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061712,0,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,0
+1537217061711,0,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,2,0
+1537217061713,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061713,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061713,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061715,0,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,0
+1537217061714,0,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,2,0
+1537217061714,0,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,2,0
+1537217061716,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061716,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061717,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061717,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061717,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061719,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061719,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061720,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061720,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061720,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061722,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061722,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061722,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061723,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061723,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061725,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061724,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061724,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061726,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061726,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061728,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061728,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061728,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061730,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061729,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061729,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061731,2,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,2
+1537217061731,2,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,2
+1537217061734,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061733,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061733,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061736,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061735,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061737,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061737,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061737,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061739,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061739,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061739,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061740,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061740,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061742,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061742,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061742,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,1,1
+1537217061744,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-4,text,false,,2128,0,1,1,0,0,1
+1537217061744,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,2128,0,1,1,0,0,1
+1537217061904,2,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,2
+1537217061904,2,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,2
+1537217061904,2,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,2
+1537217061907,0,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,0
+1537217061906,0,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,2,0
+1537217061906,0,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,2,0
+1537217061908,2,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,2
+1537217061908,2,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,2
+1537217061911,3,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,3
+1537217061911,3,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,3
+1537217061911,3,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,3
+1537217061914,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061914,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061916,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061916,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061916,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061917,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061917,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061917,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061919,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061919,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061921,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061920,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061920,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061922,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061922,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061924,0,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,0
+1537217061923,0,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,2,0
+1537217061923,0,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,2,0
+1537217061925,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061925,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061925,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061926,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061926,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061927,1,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061927,1,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061927,1,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061929,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061929,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061931,0,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,0
+1537217061930,0,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,2,0
+1537217061930,0,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,2,0
+1537217061932,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061932,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061932,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061934,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061933,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061935,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,2
+1537217061935,2,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,2
+1537217061935,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,2
+1537217061937,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061937,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061939,1,1 /addressbookv4.1.4/,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061939,1,1 /addressbookv4.1.4/,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061939,1,Home page,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061940,1,3 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061940,1,3 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061940,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
+1537217061942,1,4 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061942,1,New group form,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,1
+1537217061943,2,5 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,2
+1537217061943,2,5 /addressbookv4.1.4/group.php,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,2
+1537217061943,2,Form submitted,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,0,2
+1537217061945,1,6 /addressbookv4.1.4/group.php,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused (Connection refused),Thread Group 1-5,text,false,,2128,0,1,1,0,0,1
+1537217061945,1,Group List,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,2128,0,1,1,0,1,1
